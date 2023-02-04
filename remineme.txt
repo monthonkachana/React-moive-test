@@ -1,1 +1,3 @@
-dsad
+store เก็บ ข้อมูล stats
+reducer จัดการ stats
+actopn จัดการให้มันเกิดขึ้น เพิ่มข้อมูล ให้ stats ใน reducer 
